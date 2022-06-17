@@ -16,12 +16,19 @@
 <a href="https://github.com/h1r09" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hunor-m-b09167153/" target="_blank">
+<a href="https://linkedin.com/in/hunor-m-b09167153/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
  
+## My Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1r09&hide_border=true&layout=compact" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h1r09&show_icons=true&count_private=true&hide_border=true" align="center" />
+  
+</div>  
 
+<br/>  
 ### The following are some of my skills and tools I have used  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
