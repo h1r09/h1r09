@@ -21,10 +21,19 @@
 </a>  
 </div>  
  
-## My Github Stats  
+## My Github Stats 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h1r09&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1r09&hide_border=true&layout=compact" align="center" />
+  <table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=h1r09&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1r09&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+</td></tr></table>  
+
   
   
 </div>  
