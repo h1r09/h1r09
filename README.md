@@ -23,13 +23,16 @@
  
 ## My Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1r09&hide_border=true&layout=compact" align="left" />
   <img src="https://github-readme-stats.vercel.app/api?username=h1r09&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1r09&hide_border=true&layout=compact" align="center" />
+  
   
 </div>  
 
-<br/>  
-### The following are some of my skills and tools I have used  
+<br/>
+
+## The following are some of my skills and tools I have used  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
@@ -61,7 +64,7 @@
 
 
 
-### The following are some of the languages ​​I have worked with.
+## The following are some of the languages ​​I have worked with.
   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -76,3 +79,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 <br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=h1r09&&style=flat-square" align="center" />
+</div>  
