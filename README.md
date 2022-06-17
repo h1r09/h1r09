@@ -13,8 +13,16 @@
 
 <div align="center">I'm a computer engineering student with a double mention in software engineering and IT</div>  
   
-
-<br/>  
+<br/> 
+<div align="center">
+<a href="https://github.com/h1r09" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hunor-m-b09167153/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+ 
 
 ### The following are some of my skills and tools I have used  
 <div align="center">  
